@@ -3,7 +3,7 @@ import { StoreHours } from "@/types/store";
 export const mockStoreHours: StoreHours[] = [
   {
     region: "NA",
-    openTime: "09:00",
+    openTime: "09:30",
     closeTime: "21:00",
     timezone: "America/New_York",
   },
